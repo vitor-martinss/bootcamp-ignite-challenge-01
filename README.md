@@ -2,7 +2,7 @@
 
 This is the first challenge of Ignite Bootcamp.
 See the instructions below:
-- [Intructions](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d)
+- [Instructions](https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d)
 
 ## 🚀 Technologies
 
